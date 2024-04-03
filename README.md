@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# PRODIGY_WD_03
+🎮 Excited to unveil my newest project: an interactive tic-tac-toe web app! 💻✨ Dive into the fun of game development and web design as you challenge friends, sharpen coding skills, and bring this classic game to life online. Check it out and share your thoughts! #TicTacToe #WebDevelopment #GameDev #InteractiveFun
+>>>>>>> 34d3f1ce0c3a81d42a8138d3bc6f0b8fba42838d
